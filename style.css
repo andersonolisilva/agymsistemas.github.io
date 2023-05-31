@@ -65,7 +65,6 @@ tr {
 }
 
 #contato a:hover {
-	position: fixed;
 	border-radius: 8px;
 	padding: 10px 16px;
 	color: black;
