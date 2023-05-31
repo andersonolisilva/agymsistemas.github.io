@@ -1,0 +1,128 @@
+/* TAGs */
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Bahnschrift Light;
+	color: black;
+}
+
+header {
+	background: rgb(229,123,35);
+	height: 60px;
+	padding: 10px 0px 0px 0px;
+}
+
+h2 {
+	font-size: 32px;
+	padding: 30px 0px 0px 0px;
+}
+
+h3 {
+	font-size: 16px;
+	margin: 21.4px 40px 0px;
+	text-align: left;
+}
+
+p {
+	text-align: left;
+	margin: 10px 50px 10px;
+}
+
+iframe{
+	padding: 0px 80px 10px;
+}
+
+body {
+	background: rgb(247,241,241);
+}
+
+tr {
+	align: center;
+}
+
+/* IDs */
+#principal {
+	
+}
+
+#principal a {
+	font-size: 14px;
+	color: black;
+}
+
+#contato {
+	padding: 10px;
+}
+
+#contato a {
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+	border-radius: 26px;
+	background: #E8AA42;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#contato a:hover {
+	position: fixed;
+	border-radius: 8px;
+	padding: 10px 16px;
+	color: black;
+	background: rgb(229,123,35);
+	-webkit-transition: 0.6s;
+}
+
+#contato p {
+	text-align: center;
+	padding: 0px 0px 10px;
+}
+
+#return {
+	
+}
+
+#return img {
+	border-radius: 26px;
+	background: #E8AA42;
+	padding: 9px 50px;
+}
+
+#return img:hover {
+	border-radius: 8px;
+	background: rgb(229,123,35);
+	-webkit-transition: 0.6s;
+}
+
+#return a {
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 26px;
+	text-decoration: none;
+	background: #E8AA42;
+	padding: 9px 50px;
+}
+
+#return a:hover {
+	border-radius: 8px;
+	background: rgb(229,123,35);
+	padding: 9px 56px;
+	-webkit-transition: 0.6s;
+}
+
+#wpp {
+	padding-left: 1200px;
+}
+
+/* Classes */
+.container {
+	position: center;
+	text-align: center;
+	width: 600;
+	margin: 0 auto;
+}
+
+.btn_duvida {
+	padding: 10px;
+	color: white;
+}
